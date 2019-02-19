@@ -1,4 +1,7 @@
+@import "colors.scss";
+
 .header_container {
+  color: aliceblue;
   background-color: $main;
   border: 1px solid greenyellow;
 }
